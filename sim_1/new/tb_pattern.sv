@@ -51,7 +51,7 @@ load = 1'b1;
 #8
 load = 1'b0;
 serial_in = 1'b1;
-#8
+#12
 
 serial_in = 1'b1;
 #8
